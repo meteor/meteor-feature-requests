@@ -2,7 +2,7 @@
 
 This repository is used to track [Meteor](https://github.com/meteor/meteor) feature requests only (requests for new Meteor functionality). Click [here](https://github.com/meteor/meteor-feature-requests/issues/new) to open a new feature request.
 
-**Note:** Meteor bugs are tracked in the [Meteor repo issue tracker](https://github.com/meteor/meteor/issues). 
+**Note:** Meteor bugs are tracked in the [Meteor repo issue tracker](https://github.com/meteor/meteor/issues).
 
 ## Guidelines
 
@@ -19,6 +19,6 @@ Finally, you can show your support for (or against!) features by using GitHub re
 ## Resources
 
 - Main Meteor repo: https://github.com/meteor/meteor
-- Contribution guidelines: https://github.com/meteor/meteor/blob/devel/Contributing.md
-- Feature request triaging guidelines: https://github.com/meteor/meteor/blob/devel/IssueTriage.md#feature-requests
-- Feature request (PR) development guide: https://github.com/meteor/meteor/blob/devel/Development.md
+- Contribution guidelines: https://github.com/meteor/meteor/blob/devel/CONTRIBUTING.md
+- Feature request triaging guidelines: https://github.com/meteor/meteor/blob/devel/ISSUE_TRIAGE.md#feature-requests
+- Feature request (PR) development guide: https://github.com/meteor/meteor/blob/devel/DEVELOPMENT.md

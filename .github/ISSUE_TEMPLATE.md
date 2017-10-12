@@ -9,4 +9,4 @@
 - [ ] An overview of the suggested solution
 - [ ] If the feature changes current behavior, reasons why your solution is better
 
-See [here](https://github.com/meteor/meteor/blob/devel/Contributing.md#feature-requests) for more detail on what is expected of a feature request.
+See [here](https://github.com/meteor/meteor/blob/devel/CONTRIBUTING.md#feature-requests) for more detail on what is expected of a feature request.
