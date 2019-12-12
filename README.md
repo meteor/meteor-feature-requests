@@ -6,11 +6,11 @@ This repository is used to track [Meteor](https://github.com/meteor/meteor) feat
 
 ## Guidelines
 
-Meteor is a big project with many sub-projects. There aren't as many core developers (we're hiring!) as there are sub-projects, so we're not able to work on every single sub-project every month. We use our roadmap to communicate the high-level features we're currently prioritizing.
+We use our [roadmap](https://github.com/meteor/meteor/blob/devel/Roadmap.md) to communicate the high-level features we're currently prioritizing.
 
 Every additional feature adds a maintenance cost in addition to its value. This cost starts with the work of writing the feature or reviewing a community pull request. In addition to the core code change, attention needs to be paid to documentation, tests, maintainability, how the feature interacts with existing and speculative Meteor features, cross-browser/platform support, user experience/API considerations, etc. Once the feature is shipped, it then becomes the community's responsibility to fix future bugs related to the feature. In case the original author disappears, it's important that the feature has good tests and is widely used in order to be maintainable by other contributors.
 
-For these reasons, we strongly encourage features to be implemented as Atmosphere or npm packages rather than changes to core. Try to re-work your feature request as a minimal set of hooks to core that enable the feature to be implemented as a package.
+For these reasons, we strongly encourage features to be implemented as npm or Atmosphere packages rather than changes to core. Try to re-work your feature request as a minimal set of hooks to core that enable the feature to be implemented as a package.
 
 Feature requests should be well specified and unambiguous to have the greatest chance of being worked on by a contributor.
 
