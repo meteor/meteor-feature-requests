@@ -1,4 +1,10 @@
-# Meteor Feature Requests
+# Meteor Feature Requests (DEPRECATED)
+
+This repository is no longer used and in read-only mode, now we are using GitHub Discussions in our main repository. 
+
+Read more [here](https://github.com/meteor/meteor/discussions/11504)
+
+## OLD README
 
 This repository is used to track [Meteor](https://github.com/meteor/meteor) feature requests only (requests for new Meteor functionality). Click [here](https://github.com/meteor/meteor-feature-requests/issues/new) to open a new feature request.
 
