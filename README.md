@@ -1,6 +1,6 @@
 # Meteor Feature Requests (DEPRECATED)
 
-This repository is no longer used and in read-only mode, now we are using GitHub Discussions in our main repository. 
+This repository is no longer used and it is now in read-only mode. We are using GitHub Discussions in our main repository as a replacement of this repository. 
 
 Read more [here](https://github.com/meteor/meteor/discussions/11504)
 
